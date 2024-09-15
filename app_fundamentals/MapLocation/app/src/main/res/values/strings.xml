@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Map Location</string>
+    <string name="show_map_string">Show Map</string>
+    <string name="location_string">Enter Location</string>
+</resources>
