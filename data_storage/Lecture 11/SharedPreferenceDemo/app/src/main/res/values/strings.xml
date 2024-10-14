@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shared Preferences Demo</string>
+    <string name="play_string">Play Game</string>
+    <string name="highscore_string">&quot;High Score: &quot;</string>
+    <string name="reset_string">Reset</string>
+</resources>
