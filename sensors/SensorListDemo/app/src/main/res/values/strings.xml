@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensor List Demo</string>
+    <string name="lbl_sensor_list">Sensor List</string>
+</resources>
